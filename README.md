@@ -1,1 +1,32 @@
 # Porch-Light-Sensor
+This is my Embedded system final project. I utilized a TIVA C Series microcontoller alongside an Inland PIR Sensor to create a responsive Porch light sensor. 
+
+This repository includes all components, design files, and the (main.c) source code used to program the microcontroller to read and output a response from the PIR Sensor. 
+
+
+
+
+
+
+
+
+
+
+#SOFTWARE UTILIZED
+- CODE COMPOSER STUDIO 
+
+
+
+
+#COMPONENTS
+- BREADBOARD
+- TIVA C SERIES MICROCONTROLER
+- BLUE OR ANY COLOR LED
+- CURRENT LIMITING RESISTOR (330 --> 470 OHM)
+- PIR INFRARED SENSOR
+- 2 4-PIN BUTTONS
+- JUMPER WIRES
+     - MALE TO MALE
+     - MALE TO FEMALE
+     - FEMALE TO FEMALE
+![IMG_3246](https://github.com/jfrancisjr21/Porch-Light-Sensor/assets/124747155/c6bcb296-ff91-406a-8f4c-671779a3d07c)
