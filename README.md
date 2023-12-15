@@ -29,10 +29,11 @@ This repository includes all components, design files, and the (main.c) source c
 
 
 #SCHEMATIC
-![Untitled_Artwork](https://github.com/jfrancisjr21/Porch-Light-Sensor/assets/124747155/2cc7573f-1d38-4b93-9e1f-9690a8070ec1)
+
+![unnamed](https://github.com/jfrancisjr21/Porch-Light-Sensor/assets/124747155/1648e3ea-4cf1-4ef7-89d6-e54327e39b34)
 
 
 
 
 #TESTING 
-After nsuring you have wired the entire circuit correctly you may connect your microcontroller to your computer and build and debug your code. If done correctly the LED should turn on and off in its inital state. Then after a 5 second delay the PIR sensor will be ready to read different heat signitures and display a response through the lit LED.  
+After ensuring you have wired the entire circuit correctly you may connect your microcontroller to your computer and build and debug your code. If done correctly the LED should turn on and off in its inital state. Then after a 5 second delay the PIR sensor will be ready to read different heat signitures and display a response through the lit LED.  
