@@ -36,4 +36,4 @@ This repository includes all components, design files, and the (main.c) source c
 
 
 #TESTING 
-After ensuring you have wired the entire circuit correctly you may connect your microcontroller to your computer and build and debug your code. If done correctly the LED should turn on and off in its inital state. Then after a 5 second delay the PIR sensor will be ready to read different heat signitures and display a response through the lit LED.  
+After ensuring you have wired the entire circuit correctly you may connect your microcontroller to your computer and build and debug your code. If done correctly the LED should turn on and off in its inital state. Then after a 5 second delay the PIR sensor will be ready to read different heat signitures and display a response through the lit LED. 
